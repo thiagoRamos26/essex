@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box
+}
+body {
+    margin:1%;
+    background: black;
+}
+.x {
+    color: rgb(255, 0, 0);
+    margin-left: 3%;
+    margin-top: -88px;
+    padding: 1%;
+    font-size: 250%;
+    margin-bottom: -12%;
+}
+.agora {
+    color:rgb(111, 0, 255) ;
+    margin-left: 3%;
+    margin-top: 13px;
+    font-size: 250%;
+    margin-top: 8%;
+}
+.hoje {
+    color:rgb(255, 0, 0);
+    margin-left: 3%;
+    margin-top: 0%;
+    font-size: 250%;
+}
+.lok {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 3px groove rgb(255, 255, 255);
+    border-radius: 67px;
+    margin-top: -27px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 888px;
+    margin-bottom: -100;
+    margin-left: 1dvb;
+    text-align: center;
+}
+.ou {
+    color: gray;
+    text-decoration: none;
+    margin-top: -27px;
+    background-color: rgb(0, 0, 0);
+    margin-right: 888px;
+    margin-bottom: -100;
+    margin-left: 1dvb;
+    text-align: center;
+}
+.conta {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 3px groove rgb(255, 255, 255);
+    border-radius: 67px;
+    margin-top: -27px;
+    background-color: rgb(0, 17, 255);
+    margin-right: 888px;
+    margin-bottom: -100;
+    margin-left: 1dvb;
+    text-align: center;
+}
+.conta :hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 3px groove rgb(255, 255, 255);
+    border-radius: 67px;
+    margin-top: -27px;
+    background-color: rgb(0, 17, 255);
+    margin-right: 888px;
+    margin-bottom: -100;
+    margin-left: 1dvb;
+    text-align: center;
+}
